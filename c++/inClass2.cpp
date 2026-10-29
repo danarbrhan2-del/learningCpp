@@ -4,6 +4,14 @@ using namespace std;
 int main() {
     
     //taking input from user for the arry and size 
+
+
+    /*
+    
+    hi
+    
+    
+    */
     int const max=10;
     int arry[max];
     int size;
